@@ -6,6 +6,8 @@ MeteoraBot exposes a small set of **read-only, public** JSON endpoints. They req
 >
 > These are the only public endpoints. Account, wallet, trading, and admin endpoints are authenticated and are **not** part of this reference.
 
+> 💡 For copy-paste `curl`, JavaScript, and Python snippets against these endpoints, see [Usage Examples](usage-examples.md).
+
 ## Conventions
 
 - All responses are `application/json`.

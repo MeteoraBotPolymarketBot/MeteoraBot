@@ -45,6 +45,7 @@ MeteoraBot runs three concurrent loops — **Scan → Reason → Strike**:
 - 📘 [Getting Started](docs/getting-started.md) — connect a wallet and place your first trade
 - 🧭 [Usage Guide](docs/usage.md) — trading modes and the dashboard
 - 🔌 [Public API Reference](docs/api-reference.md) — read-only public endpoints
+- 💡 [Usage Examples](docs/usage-examples.md) — copy-paste curl / JS / Python snippets
 - ❓ [FAQ](docs/faq.md) — fees, safety, wallets, troubleshooting
 - 🗒️ [Changelog / Release Notes](CHANGELOG.md)
 
