@@ -1,0 +1,19 @@
+Copyright (c) 2026 MeteoraBot
+
+DOCUMENTATION LICENSE
+=====================
+
+This repository contains documentation only (README, usage guides, public
+API reference, FAQ, and release notes). It does NOT include the MeteoraBot
+trading engine, strategy internals, source code, or any user data.
+
+You may read, reference, and link to this documentation. You may not
+reproduce it wholesale as your own, or use the MeteoraBot name/branding to
+represent a product that is not MeteoraBot.
+
+The MeteoraBot software, trading engine, and all associated intellectual
+property are proprietary and all rights are reserved.
+
+THE DOCUMENTATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. Nothing
+in this repository is financial advice. Prediction-market trading carries
+risk of loss.

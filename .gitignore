@@ -1,0 +1,40 @@
+# ─────────────────────────────────────────────────────────────
+# This is a DOCS-ONLY repository. Never commit source, data, or
+# secrets here. The patterns below are a safety net against
+# accidental copies of the application into this repo.
+# ─────────────────────────────────────────────────────────────
+
+# Secrets / credentials
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+secrets*
+credentials*
+
+# Application source & runtime (do NOT publish)
+src/
+public/
+tools/
+scripts/
+node_modules/
+package-lock.json
+
+# User & trading data (do NOT publish)
+data/
+*.db
+*.sqlite
+
+# Server / infra
+nginx*
+*.conf
+dump.pm2
+*.log
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
