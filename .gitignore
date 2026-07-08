@@ -24,6 +24,8 @@ package-lock.json
 
 # User & trading data (do NOT publish)
 data/
+*.json
+*.csv
 *.db
 *.sqlite
 
